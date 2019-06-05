@@ -1,0 +1,15 @@
+Version:0.9
+StartHTML:0000000105
+EndHTML:0000000326
+StartFragment:0000000136
+EndFragment:0000000293
+<HTML><BODY><!--StartFragment--><TABLE BORDER><tr><td>+----------+
+id   var 
+----------
+1.   1     2 
+2.   2     4 
+3.   3     6 
+4.   4     8 
+5.   5    10 
++----------+
+</td></tr></TABLE><!--EndFragment--></BODY></HTML>
