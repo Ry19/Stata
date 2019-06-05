@@ -13,3 +13,26 @@ id   var
 5.   5    10 
 +----------+
 </td></tr></TABLE><!--EndFragment--></BODY></HTML>
+//
+
+Version:0.9
+StartHTML:0000000105
+EndHTML:0000000558
+StartFragment:0000000136
+EndFragment:0000000525
+<HTML><BODY><!--StartFragment--><TABLE BORDER><tr><td>+--------------------+
+id   var   missing 
+--------------------
+1.   1     2         . 
+2.   2     4         . 
+3.   3     6         . 
+4.   4     8         . 
+5.   5    10         . 
+--------------------
+6.   6    12         . 
+7.   7    14         . 
+8.   8    16         . 
+9.   9    18         . 
+10.  10    20         . 
++--------------------+
+</td></tr></TABLE><!--EndFragment--></BODY></HTML>
